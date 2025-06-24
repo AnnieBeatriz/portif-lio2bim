@@ -1,0 +1,7 @@
+img {
+  width: 200px;        /* ou ajuste conforme o necessário */
+  height: auto;        /* mantém a proporção */
+  display: block;      /* evita espaços indesejados */
+  margin: 0 auto;      /* centraliza */
+ border-radius: 10px; /* opcional: bordas arredondadas */
+}
